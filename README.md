@@ -39,6 +39,10 @@ This grid alone can only act as item (1), but with advance planning it is possib
 Consider the user's ability to remember these rules accurately, nor should they ever be written down. So long as the rules are known to the users alone, a compromised grid will still be useful.
 
 # Use of the Software
+### Executable
+There is a Windows 64-bit executable in the [Release v1.0.0 files](https://github.com/Hectate/wordsgrid/releases/tag/v1.0.0) that may be used at your convenience.
+
+### Node.js
 This software is a Node.js program. To install via Node, first copy the repository to your machine. Then run the install script for dependencies:
 ```
 npm install

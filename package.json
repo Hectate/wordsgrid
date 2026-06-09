@@ -4,7 +4,8 @@
     "description": "Generates a 2d Array of words from EFF's Diceware words list.",
     "main": "index.js",
     "scripts": {
-        "start": "node .\\index.js"
+        "start": "node .\\index.js",
+        "build": "bun build .\\index.js --compile --outfile .\\.build\\wordsgrid"
     },
     "type": "module",
     "author": "Nathaniel \"Hectate\" Mitchell",
